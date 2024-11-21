@@ -1,4 +1,4 @@
-## Codes for the paper: “[Characterizing nonlinear piezoelectric dynamics through deep neural operator learning](https://doi.org/)”
+## Codes for the paper: “Characterizing nonlinear piezoelectric dynamics through deep neural operator learning”
 
 Repository Structure
 
